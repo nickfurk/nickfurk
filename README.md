@@ -1,6 +1,6 @@
 <h1>Hey! I'm April <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
-- 🔭 I’m currently a Computer Systems Technology student at BCIT, expecting to graduate in Dec 2023
+- 🔭 I’m a Computer Systems Technology student at BCIT, expecting to graduate in Dec 2023
 - 🌱 I’m currently learning Flutter and exploring various AI tools
 - 👯 I’m open to collaborate on new project ideas
 - 🤔 I like to try hard things because they stretch you the most
