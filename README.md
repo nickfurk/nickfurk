@@ -1,11 +1,9 @@
 <h1>Hey! I'm April <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
-- 🔭 I’m a Computer Systems Technology student at BCIT, expecting to graduate in Dec 2023
-- 🌱 I’m currently learning Flutter and exploring various AI tools
+- 🔭 I've recently graduated from the Computer Systems Technology program at BCIT
 - 👯 I’m open to collaborate on new project ideas
 - 🤔 I like to try hard things because they stretch you the most
 - 📫 How to reach me: LinkedIn message
-- ⚡ Fun fact: my DND character is a half tiefling and half halfing named SpitFire
 
 <h3>I develop with:</h3>
 <p>
